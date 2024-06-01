@@ -16,7 +16,7 @@ const scoreValue = 100.3
 const isLoggedIn = false
 
 // (4) null:
-const outsideTemp = null // completly empty
+const outsideTemp = null // completely empty
 
 // (5) undefined:
 // let useEmail = undefined;
