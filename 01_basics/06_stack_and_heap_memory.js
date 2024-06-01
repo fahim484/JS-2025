@@ -29,3 +29,8 @@ userTwo.email = "fahim@google.com"
 
 console.log(userOne.email);
 console.log(userTwo.email);
+
+
+
+
+// Site Link: https://www.geeksforgeeks.org/memory-management-in-javascript/
