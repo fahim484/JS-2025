@@ -25,12 +25,12 @@ let useEmail;
 // (6) Symbol:
 const id = Symbol('123')
 const anotherId = Symbol('123')
-console.log(id === anotherId);
+console.log(id === anotherId); // false
 console.log(id);
 console.log(anotherId);
 
 // (7) BigInt:
-const bigNumber = 23402804543520399n
+const bigNumber = 234028045435203994n
 
 
 
@@ -55,13 +55,22 @@ const myFunction = function() {
 
 
 // JavaScript typeof Operator for knowing data types:
-console.log(typeof bigNumber); // IV.Q
-console.log(typeof outsideTemp);
-console.log(typeof scoreValue);
-console.log(typeof myFunction); // Object-Fuction DataType
-console.log(typeof heros);
-console.log(typeof id);
-console.log(typeof anotherId);
+console.log(typeof lastName); // string
+console.log(typeof score); // number (Integer)
+console.log(typeof scoreValue); // number (Float)
+console.log(typeof isLoggedIn); // boolean
+console.log(typeof outsideTemp); // object (IV.Q)
+console.log(typeof useEmail); // undefined
+console.log(typeof id); // symbol
+console.log(typeof anotherId); // symbol
+console.log(typeof bigNumber); // bigint
+
+
+
+
+
+console.log(typeof heros); // object
+console.log(typeof myFunction); // (Object-Fuction Data Type)
 
 
 
