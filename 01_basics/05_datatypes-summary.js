@@ -70,6 +70,7 @@ console.log(typeof bigNumber); // bigint
 
 
 console.log(typeof heros); // object
+console.log(typeof person); // object
 console.log(typeof myFunction); // (Object-Fuction Data Type)
 
 
