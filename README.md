@@ -1,2 +1,2 @@
-# JS-2024
-A code repo for javascript series at Chai aur code youtube channel
+# JS-2025
+A code repo for JavaScript series at Chai aur code YouTube channel
